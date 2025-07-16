@@ -20,3 +20,9 @@ import java.util.Scanner;
     }
 }
 
+// class Solution {
+//     public boolean isPerfectCube(int num) {
+//         double cubeRoot = Math.cbrt(num);
+//         return (cubeRoot == (int)cubeRoot);
+//     }
+// }
